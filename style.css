@@ -101,7 +101,7 @@ h2 {
   margin: 0 auto;
 }
 input#blink, input#anchorText, input#ilink, input#ialt  {
-  width: 100%;
+  width: auto;
 }
 .box input, button#btnReset, button#btnResetimg {
   border:2px solid #aaa;
