@@ -174,6 +174,12 @@ document.querySelector("#btnReset").onclick = function () {
         message: 'Reset thành công!'
     });
 };
+document.querySelector("#btnResetimg").onclick = function () {
+    // toast
+    $("#toast").toast({
+        message: 'Reset thành công!'
+    });
+};
 // Copy All
 document.querySelector("#copy-All").onclick = function () {
     // Select the content
