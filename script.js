@@ -99,7 +99,7 @@ document.querySelector("#copy-cNum2").onclick = function () {
     // toast
     $("#toast").toast({
         type: 'success',
-        message: 'Copy thành công Formatting Syntax'
+        message: 'Copy thành công Markdown'
     });
 };
 // document.querySelector("#copy-cNum3").onclick = function () {
@@ -164,7 +164,7 @@ document.querySelector("#copy-cImg2").onclick = function () {
     // toast
     $("#toast").toast({
         type: 'success',
-        message: 'Copy thành công Formatting Syntax'
+        message: 'Copy thành công Markdown'
     });
 };
 // toast reset
